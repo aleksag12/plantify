@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Omnes';
+  src: url('/public/fonts/Omnes Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Omnes';
+  src: url('/public/fonts/Omnes Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Omnes';
+  src: url('/public/fonts/Omnes SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
